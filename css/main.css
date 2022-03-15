@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "Gilroy Bold"; 
+	
+	src: url("../fonts/Gilroy-Bold.eot"); 
+	src: url("../fonts/Gilroy-Bold.eot?#iefix") format("embedded-opentype"),
+	
+	url("../fonts/Gilroy-Bold.woff") format("woff"), 
+	url("../fonts/Gilroy-Bold.ttf") format("truetype"); 
+
+	font-style: normal; 
+	font-weight: normal; 
+} 
